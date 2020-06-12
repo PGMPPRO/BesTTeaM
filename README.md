@@ -1,0 +1,2 @@
+# BesTTeaM
+Project team simulator
